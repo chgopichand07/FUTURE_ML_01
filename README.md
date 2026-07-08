@@ -332,7 +332,4 @@ I sincerely thank **Future Interns** for providing practical industry-oriented p
 
 ## CHINTALA GOPI CHAND
 
-
-**Made with ❤️ using Python, Machine Learning & Time Series Forecasting**
-
 </div>
